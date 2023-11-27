@@ -2,5 +2,6 @@
 
 [![Dark's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTU-SumalinogREX&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&border_radius=10&card_width=500)](https://github.com/CTU-SumalinogREX/github-readme-stats)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CTU-SumalinogREX&size_weight=0.5&count_weight=0.5&layout=donut)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
