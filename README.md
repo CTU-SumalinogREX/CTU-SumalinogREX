@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CTU-SumalinogREX&theme=dark&size_weight=0.5&count_weight=0.5&layout=donut)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTU-SumalinogREX)](https://github.com/CTU-SumalinogREX/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CTU-SumalinogREX&theme=tokyonight)](https://github.com/CTU-SumalinogREX/github-readme-stats)
